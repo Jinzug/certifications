@@ -12,6 +12,6 @@ Je documente ici les formations, certificats et parcours d'apprentissage que je 
 
 ## 🎓 Certifications obtenues
 
-| Date       | Nom de la certif                          | Plateforme         | Lien / Preuve                     |
-|------------|--------------------------------------------|--------------------|-----------------------------------|
-| En cours   | Scientific Computing with Python           | freeCodeCamp       | [📄 Voir PDF](python/freecodecamp-python.pdf) |
+| Date       | Nom de la certif                          | Plateforme         | Lien / Preuve                    |
+|------------|-------------------------------------------|--------------------|----------------------------------|
+| En cours   | Scientific Computing with Python          | freeCodeCamp       | X                                |
