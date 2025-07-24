@@ -1,17 +1,17 @@
-# 📜 Mes certifications
+# 📜 My certifications
 
-Bienvenue sur mon dépôt de certifications techniques.  
-Je documente ici les formations, certificats et parcours d'apprentissage que je complète dans les domaines suivants :
+Welcome to my technical certifications deposit.  
+I'll document here all formations, certifications and learning journeys that I complete in the following domains :
 
 - 🐍 Python & Programmation
-- 🔐 Cybersécurité
-- 🌐 Web & Développement
-- 🧠 Algorithmique & Informatique générale
+- 🔐 Cybersecurity
+- 🌐 Web & Development
+- 🧠 Algorithmy & General Informatic
 
 ---
 
-## 🎓 Certifications obtenues
+## 🎓 Completed Certifications
 
-| Date       | Nom de la certif                          | Plateforme         | Lien / Preuve                    |
-|------------|-------------------------------------------|--------------------|----------------------------------|
-| En cours   | Scientific Computing with Python          | freeCodeCamp       | X                                |
+| Date          | Name of Certification                     | Plateform          | Link / Proof.                    |
+|---------------|-------------------------------------------|--------------------|----------------------------------|
+| In progress   | Scientific Computing with Python          | freeCodeCamp       | X                                |
