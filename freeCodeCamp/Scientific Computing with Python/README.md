@@ -8,7 +8,7 @@ Here are all of the necessary projects to get the SCP certification from freeCod
 
 | Date          | Name of Projects                          | Plateform          | Link                                        |
 |---------------|-------------------------------------------|--------------------|---------------------------------------------|
-| 07/25/2025    | Build an Arithmetic Formatter Project     | freeCodeCamp       | [build-an-arithmetic-formatter-project.py](https://github.com/Jinzug/certifications/blob/main/freeCodeCamp/Scientific%20Computing%20with%20Python/build-an-arithmetic-formatter-project.py)|
+| 07/25/2025    | Build an Arithmetic Formatter Project     | freeCodeCamp       | [build-an-arithmetic-formatter-project.py](https://github.com/Jinzug/certifications/blob/main/freeCodeCamp/Scientific Computing with Python/build-an-arithmetic-formatter-project.py)|
 | In Progress   | Build a Time Calculator Project           | freeCodeCamp       | [X]                                         |
 | In Progress   | Build a Budget App Project                | freeCodeCamp       | [X]                                         |
 | In Progress   | Build a Polygon Area Calculator Project   | freeCodeCamp       | [X]                                         |
